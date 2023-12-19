@@ -1,3 +1,17 @@
+HANGMAN = [
+'________',
+'|       |',
+'|       O',
+'|       |',
+'|      /|\ ',
+'|       |',
+'|      / \ '
+]
+
+WORDS = [
+    'casa', 'car', 'mono', 'elevator', 'python', 'java',
+    'pleasure', 'young', 'festival', 'sing', 'class'
+]
 
 class Hangman():
     """
